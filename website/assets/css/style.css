@@ -1,0 +1,2256 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 5764px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_29 {
+	fill: rgba(255,249,249,1);
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 3970px;
+	left: 0px;
+	top: 688px;
+}
+#Group_28 {
+	position: absolute;
+	width: 823px;
+	height: 44px;
+	left: 553px;
+	top: 60px;
+	overflow: visible;
+}
+#About_Canndo {
+	left: 0px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(23,84,163,1);
+}
+#Teachers {
+	left: 231px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(23,84,163,1);
+}
+#Projects {
+	left: 409px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(23,84,163,1);
+}
+#Rectangle_32 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 44px;
+	left: 535px;
+	top: 0px;
+}
+#Rectangle_10 {
+	fill: rgba(23,84,163,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1771px;
+	height: 802px;
+	left: 75px;
+	top: 160px;
+}
+#Rectangle_49 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 1031px;
+	height: 277px;
+	left: 815px;
+	top: 1843px;
+}
+#Group_27 {
+	position: absolute;
+	width: 205.733px;
+	height: 103.842px;
+	left: 127.887px;
+	top: 28px;
+	overflow: visible;
+}
+#Group_26 {
+	position: absolute;
+	width: 205.733px;
+	height: 103.842px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_25 {
+	position: absolute;
+	width: 205.733px;
+	height: 103.842px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1031px;
+	height: 666px;
+	left: 75px;
+	top: 1079px;
+	overflow: visible;
+}
+#Group_35 {
+	opacity: 0.5;
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 1730px;
+	height: 1075.38px;
+	left: 116px;
+	top: 709.31px;
+	overflow: visible;
+}
+#Group_34 {
+	opacity: 0.37;
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 1730px;
+	height: 1075.38px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_43 {
+	opacity: 0.3;
+	position: absolute;
+	width: 1519.599px;
+	height: 1104.158px;
+	left: -12.599px;
+	top: 3536px;
+	overflow: visible;
+}
+#Group_42 {
+	position: absolute;
+	width: 1519.599px;
+	height: 1104.158px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_41 {
+	position: absolute;
+	width: 1519.599px;
+	height: 1104.158px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 1244px;
+	top: 1353px;
+	position: absolute;
+	overflow: hidden;
+	width: 562px;
+	height: 262px;
+	line-height: 35px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Group_148 {
+	opacity: 0.15;
+	mix-blend-mode: screen;
+	position: absolute;
+	width: 2039.861px;
+	height: 656.272px;
+	left: 213px;
+	top: 243.864px;
+	overflow: visible;
+}
+#Group_147 {
+	position: absolute;
+	width: 2039.861px;
+	height: 656.272px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#PROJECTS {
+	left: 122px;
+	top: 3701px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 97px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 73px;
+	color: rgba(23,84,163,1);
+}
+#Repeat_Grid_2 {
+	position: absolute;
+	width: 1780px;
+	height: 692px;
+	left: 66px;
+	top: 3813px;
+	overflow: hidden;
+}
+#Group_75 {
+	position: absolute;
+	width: 1771px;
+	height: 676px;
+	left: 9px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_70 {
+	position: absolute;
+	width: 541px;
+	height: 673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_69 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_69 {
+	filter: drop-shadow(0px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 68px;
+	left: 0px;
+	top: 623px;
+}
+#Mask_Group_2 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_31 {
+	position: absolute;
+	width: 527px;
+	height: 259px;
+	left: 0px;
+	top: 407px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con_ {
+	left: 0px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 114px;
+	line-height: 35px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_Ipsum_is_simply_dummy_ {
+	left: 3px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 70px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Read_more {
+	left: 62px;
+	top: 227px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	height: 32px;
+	line-height: 30px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Group_71 {
+	position: absolute;
+	width: 540px;
+	height: 676px;
+	left: 616px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_70 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_70 {
+	filter: drop-shadow(0px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 68px;
+	left: 0px;
+	top: 626px;
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_30 {
+	position: absolute;
+	width: 527px;
+	height: 249px;
+	left: 7px;
+	top: 420px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con_bf {
+	left: 0px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 114px;
+	line-height: 35px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Read_more_bg {
+	left: 54px;
+	top: 217px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 32px;
+	line-height: 30px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_Ipsum_is_simply_dummy_te {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 70px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_72 {
+	position: absolute;
+	width: 541px;
+	height: 673px;
+	left: 1230px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_4 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_32 {
+	position: absolute;
+	width: 537px;
+	height: 263px;
+	left: 0px;
+	top: 410px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con_bl {
+	left: 10px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 114px;
+	line-height: 35px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_Ipsum_is_simply_dummy_te_bm {
+	left: 10px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 70px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_71 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_71 {
+	filter: drop-shadow(0px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 68px;
+	left: 0px;
+	top: 213px;
+}
+#Read_more_bo {
+	left: 61px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	height: 32px;
+	line-height: 30px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_Ipsum_is_simply_dummy_te_bp {
+	left: 213px;
+	top: 368px;
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 214px;
+	line-height: 65px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 63px;
+	color: rgba(69,162,220,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bq {
+	left: 213px;
+	top: 612px;
+	position: absolute;
+	overflow: visible;
+	width: 713px;
+	height: 46px;
+	line-height: 27px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_br {
+	left: 925px;
+	top: 1959px;
+	position: absolute;
+	overflow: visible;
+	width: 713px;
+	height: 46px;
+	line-height: 27px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Vote_for_a_Teacher {
+	left: 1146px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_29 {
+	position: absolute;
+	width: 403px;
+	height: 75px;
+	left: 213px;
+	top: 709px;
+	overflow: visible;
+}
+#Rectangle_31 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+#Vote_for_a_Teacher_bv {
+	left: 115px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#menu {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1796px;
+	top: 69px;
+	overflow: visible;
+}
+#Rectangle_37 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 432px;
+	left: 0px;
+	top: 5332px;
+}
+#Rectangle_36 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 666px;
+	left: 0px;
+	top: 4666px;
+}
+#Group_102 {
+	position: absolute;
+	width: 1590px;
+	height: 386px;
+	left: 165px;
+	top: 4806px;
+	overflow: visible;
+}
+#Group_99 {
+	position: absolute;
+	width: 648px;
+	height: 283px;
+	left: 0px;
+	top: 52px;
+	overflow: visible;
+}
+#Rectangle_38 {
+	fill: rgba(23,84,163,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_43 {
+	fill: rgba(23,84,163,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 128px;
+	left: 0px;
+	top: 155px;
+}
+#Rectangle_39 {
+	fill: rgba(23,84,163,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 128px;
+	left: 220px;
+	top: 0px;
+}
+#Rectangle_42 {
+	fill: rgba(23,84,163,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 128px;
+	left: 220px;
+	top: 155px;
+}
+#Rectangle_40 {
+	fill: rgba(23,84,163,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_40 {
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 128px;
+	left: 440px;
+	top: 0px;
+}
+#n_0 {
+	left: 58px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,249,249,1);
+}
+#n_5 {
+	left: 280px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,249,249,1);
+}
+#n_0_b {
+	left: 495px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,249,249,1);
+}
+#n_5_b {
+	left: 57px;
+	top: 191px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,249,249,1);
+}
+#Text {
+	left: 267px;
+	top: 191px;
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,249,249,1);
+}
+#Type_your_amount {
+	opacity: 0.82;
+	left: 320px;
+	top: 210px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,249,249,1);
+}
+#Group_101 {
+	position: absolute;
+	width: 716px;
+	height: 386px;
+	left: 874px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_33 {
+	position: absolute;
+	width: 716px;
+	height: 311px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con_ce {
+	left: 0px;
+	top: 228px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	height: 83px;
+	line-height: 35px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_Ipsum_is_simply_dummy_te_cf {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 717px;
+	height: 223px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	color: rgba(0,0,0,1);
+}
+#Group_100 {
+	position: absolute;
+	width: 403px;
+	height: 75px;
+	left: 0px;
+	top: 311px;
+	overflow: visible;
+}
+#Rectangle_44 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+#Donate {
+	left: 160px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -20.5px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,249,249,1);
+}
+#CAN_DO {
+	left: 1244px;
+	top: 1118px;
+	position: absolute;
+	overflow: visible;
+	width: 390px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(23,84,163,1);
+}
+#TEACHERS {
+	left: 84px;
+	top: 1853px;
+	position: absolute;
+	overflow: visible;
+	width: 497px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(23,84,163,1);
+}
+#What_we_do {
+	left: 1260px;
+	top: 1229px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 97px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 73px;
+	color: rgba(23,84,163,1);
+}
+#Group_44 {
+	position: absolute;
+	width: 403px;
+	height: 75px;
+	left: 945px;
+	top: 1637px;
+	overflow: visible;
+}
+#Rectangle_30 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_30 {
+	filter: drop-shadow(0px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 421px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+}
+#Vote_for_a_Teacher_co {
+	left: 115px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_Ipsum_is_simply_dummy_te_cp {
+	left: 95px;
+	top: 1982px;
+	position: absolute;
+	overflow: visible;
+	width: 660px;
+	height: 93px;
+	line-height: 45px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(23,84,163,1);
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1771px;
+	height: 1114.5px;
+	left: 75px;
+	top: 2300px;
+	overflow: hidden;
+}
+#Group_69 {
+	position: absolute;
+	width: 1771px;
+	height: 1114.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_65 {
+	position: absolute;
+	width: 541px;
+	height: 530px;
+	left: 1230px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_58 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	height: 150px;
+	left: 0px;
+	top: 380px;
+}
+#Rectangle_52 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_56 {
+	position: absolute;
+	width: 203px;
+	height: 50px;
+	left: 37px;
+	top: 429px;
+	overflow: visible;
+}
+#Miss_Catherine_Johns {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Science_Teacher {
+	left: 0px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,162,220,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(255,249,249,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 150px;
+	left: 318px;
+	top: 380px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_61 {
+	position: absolute;
+	width: 223px;
+	height: 150px;
+	left: 318px;
+	top: 380px;
+	overflow: visible;
+}
+#Rectangle_62 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 75px;
+}
+#Rectangle_64 {
+	fill: rgba(0,23,99,1);
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+#View_Profile {
+	opacity: 0.79;
+	left: 53px;
+	top: 25.773px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Vote {
+	left: 88px;
+	top: 95.227px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Group_66 {
+	position: absolute;
+	width: 541px;
+	height: 530px;
+	left: 1230px;
+	top: 584px;
+	overflow: visible;
+}
+#Rectangle_61 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	height: 150px;
+	left: 0px;
+	top: 380px;
+}
+#Rectangle_55 {
+	position: absolute;
+	width: 541px;
+	height: 380px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_48 {
+	position: absolute;
+	width: 203px;
+	height: 50px;
+	left: 37px;
+	top: 424px;
+	overflow: visible;
+}
+#Science_Teacher_c {
+	left: 0px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,162,220,1);
+}
+#Miss_Catherine_Johns_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_59 {
+	position: absolute;
+	width: 223px;
+	height: 150px;
+	left: 318px;
+	top: 380px;
+	overflow: visible;
+}
+#Rectangle_62_db {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_62_db {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 75px;
+}
+#Rectangle_64_dc {
+	fill: rgba(0,23,99,1);
+}
+.Rectangle_64_dc {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+#View_Profile_dd {
+	opacity: 0.79;
+	left: 53px;
+	top: 25.773px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Vote_de {
+	left: 88px;
+	top: 95.227px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(255,249,249,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 150px;
+	left: 318px;
+	top: 380px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_68 {
+	position: absolute;
+	width: 541px;
+	height: 529.5px;
+	left: 615px;
+	top: 585px;
+	overflow: visible;
+}
+#Rectangle_60 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_60 {
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	height: 150px;
+	left: 0px;
+	top: 376px;
+}
+#Rectangle_54 {
+	position: absolute;
+	width: 541px;
+	height: 380px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_49 {
+	position: absolute;
+	width: 176px;
+	height: 51px;
+	left: 29px;
+	top: 428px;
+	overflow: visible;
+}
+#Mr_Silvestor_Stone {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Science_Teacher_dl {
+	left: 0px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,162,220,1);
+}
+#Rectangle_65 {
+	fill: rgba(0,23,99,1);
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 318px;
+	top: 380px;
+}
+#Group_57 {
+	position: absolute;
+	width: 223px;
+	height: 124px;
+	left: 318px;
+	top: 402px;
+	overflow: visible;
+}
+#Rectangle_63 {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 49px;
+}
+#View_Profile_dp {
+	opacity: 0.79;
+	left: 63px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Vote_dq {
+	left: 98px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(255,249,249,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 150px;
+	left: 320px;
+	top: 379.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_64 {
+	position: absolute;
+	width: 540px;
+	height: 530px;
+	left: 616px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_57 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 540px;
+	height: 150px;
+	left: 0px;
+	top: 380px;
+}
+#Rectangle_51 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_55 {
+	position: absolute;
+	width: 203px;
+	height: 49px;
+	left: 29px;
+	top: 429px;
+	overflow: visible;
+}
+#Miss_Catherine_Johns_dw {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Science_Teacher_dx {
+	left: 0px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,162,220,1);
+}
+#Rectangle_67 {
+	fill: rgba(0,23,99,1);
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 79px;
+	left: 317px;
+	top: 380px;
+}
+#Group_60 {
+	position: absolute;
+	width: 223px;
+	height: 124px;
+	left: 317px;
+	top: 406px;
+	overflow: visible;
+}
+#Rectangle_63_d {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_63_d {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 49px;
+}
+#View_Profile_d {
+	opacity: 0.79;
+	left: 63px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Vote_d {
+	left: 98px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(255,249,249,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 150px;
+	left: 317px;
+	top: 380px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_67 {
+	position: absolute;
+	width: 541px;
+	height: 530px;
+	left: 0px;
+	top: 584px;
+	overflow: visible;
+}
+#Group_51 {
+	position: absolute;
+	width: 541px;
+	height: 530px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_59 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_59 {
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	height: 150px;
+	left: 0px;
+	top: 380px;
+}
+#Rectangle_53 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_50 {
+	position: absolute;
+	width: 176px;
+	height: 50px;
+	left: 27px;
+	top: 429px;
+	overflow: visible;
+}
+#Mr_Silvestor_Stone_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Science_Teacher_ea {
+	left: 0px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,162,220,1);
+}
+#Rectangle_66 {
+	fill: rgba(0,23,99,1);
+}
+.Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 318px;
+	top: 380px;
+}
+#Group_58 {
+	position: absolute;
+	width: 223px;
+	height: 128px;
+	left: 318px;
+	top: 402px;
+	overflow: visible;
+}
+#Rectangle_63_ed {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_63_ed {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 53px;
+}
+#View_Profile_ee {
+	opacity: 0.79;
+	left: 63px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Vote_ef {
+	left: 98px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(255,249,249,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 150px;
+	left: 318px;
+	top: 380px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_63 {
+	position: absolute;
+	width: 541px;
+	height: 530px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_56 {
+	fill: rgba(23,84,163,1);
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	height: 150px;
+	left: 0px;
+	top: 380px;
+}
+#Rectangle_50 {
+	position: absolute;
+	width: 540px;
+	height: 380px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_54 {
+	position: absolute;
+	width: 176px;
+	height: 50px;
+	left: 27px;
+	top: 429px;
+	overflow: visible;
+}
+#Mr_Silvestor_Stone_el {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Science_Teacher_em {
+	left: 0px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,162,220,1);
+}
+#Rectangle_68 {
+	fill: rgba(0,23,99,1);
+}
+.Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 318px;
+	top: 380px;
+}
+#Group_62 {
+	position: absolute;
+	width: 223px;
+	height: 128px;
+	left: 318px;
+	top: 402px;
+	overflow: visible;
+}
+#Rectangle_63_ep {
+	fill: rgba(69,162,220,1);
+}
+.Rectangle_63_ep {
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 75px;
+	left: 0px;
+	top: 53px;
+}
+#View_Profile_eq {
+	opacity: 0.79;
+	left: 63px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Vote_er {
+	left: 98px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(255,249,249,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 150px;
+	left: 318px;
+	top: 380px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_74 {
+	position: absolute;
+	width: 1049px;
+	height: 27px;
+	left: 75px;
+	top: 5427px;
+	overflow: visible;
+}
+#About_Canndo_eu {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Teachers_ev {
+	left: 231px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Projects_ew {
+	left: 409px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Donations {
+	left: 583px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Contact_Us {
+	left: 757px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Privacy_Policy {
+	left: 931px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#All_Rights_Reserved_Copyright_ {
+	left: 1467px;
+	top: 5652px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#n_12_West_34th_Street__18th_Fl {
+	left: 308px;
+	top: 5623px;
+	position: absolute;
+	overflow: hidden;
+	width: 301px;
+	height: 68px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Group_90 {
+	position: absolute;
+	width: 176.541px;
+	height: 89.108px;
+	left: 75px;
+	top: 5581.446px;
+	overflow: visible;
+}
+#Group_89 {
+	position: absolute;
+	width: 176.541px;
+	height: 89.108px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_88 {
+	position: absolute;
+	width: 176.541px;
+	height: 89.108px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_93 {
+	position: absolute;
+	width: 71px;
+	height: 55px;
+	left: 1434px;
+	top: 5410px;
+	overflow: visible;
+}
+#Facebook {
+	left: 0px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -17px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Path_26 {
+	fill: rgba(245,245,245,1);
+}
+.Path_26 {
+	overflow: visible;
+	position: absolute;
+	width: 13.056px;
+	height: 25px;
+	left: 22.444px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_92 {
+	position: absolute;
+	width: 60px;
+	height: 57px;
+	left: 1605px;
+	top: 5408px;
+	overflow: visible;
+}
+#Twitter {
+	left: 0px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Path_27 {
+	fill: rgba(245,245,245,1);
+}
+.Path_27 {
+	overflow: visible;
+	position: absolute;
+	width: 30.822px;
+	height: 25px;
+	left: 14.589px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_91 {
+	position: absolute;
+	width: 88px;
+	height: 57px;
+	left: 1758px;
+	top: 5408px;
+	overflow: visible;
+}
+#Instagram {
+	left: 0px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#Path_28 {
+	fill: rgba(245,245,245,1);
+}
+.Path_28 {
+	overflow: visible;
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 26.089px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 70px;
+	left: 1553.5px;
+	top: 5406.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 70px;
+	left: 1706.87px;
+	top: 5406.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_96 {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 778.135px;
+	top: 5646px;
+	overflow: visible;
+}
+#Group_95 {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_94 {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_97 {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 883.533px;
+	top: 5648px;
+	overflow: visible;
+}
+#Group_95_fk {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_94_fl {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_98 {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 988.932px;
+	top: 5648px;
+	overflow: visible;
+}
+#Group_95_fn {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_94_fo {
+	position: absolute;
+	width: 76.467px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#We_use_secure_Payments {
+	left: 778px;
+	top: 5599px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Maven Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,249,249,1);
+}
+#teacher2 {
+	position: absolute;
+	width: 916.44px;
+	height: 816.715px;
+	left: 929.56px;
+	top: 145.285px;
+	overflow: visible;
+}
